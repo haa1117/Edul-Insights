@@ -1,5 +1,12 @@
 # 🎓 EduInsights - Academic Analytics Dashboard
 
+<img width="1884" height="555" alt="Screenshot 2025-06-17 173755" src="https://github.com/user-attachments/assets/78b644f4-a71f-4499-a935-ad1d1aa2966d" />
+<img width="1881" height="764" alt="Screenshot 2025-06-17 173725" src="https://github.com/user-attachments/assets/362ec705-46af-4e1d-9640-c4630c66ec42" />
+<img width="1884" height="630" alt="Screenshot 2025-06-17 173640" src="https://github.com/user-attachments/assets/11870c4f-fe7c-46c2-897d-2bdaee9d9ce6" />
+<img width="1884" height="603" alt="Screenshot 2025-06-17 173859" src="https://github.com/user-attachments/assets/ca718c78-48ab-46d3-9f2f-a09d180d8bd0" />
+<img width="1894" height="593" alt="Screenshot 2025-06-17 173821" src="https://github.com/user-attachments/assets/c17b0639-74d6-4e84-9e34-83f59a4dc42f" />
+
+
 **Professional-grade educational analytics platform for schools and educational institutions**
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
